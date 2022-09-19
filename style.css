@@ -1,0 +1,63 @@
+
+
+
+h2 {
+    font-family: sans-serif;
+    font-style: oblique;
+    
+}
+
+
+body {
+    background-color: rgba(128, 255, 219);
+ }
+
+
+ .foto-minha {
+  border-radius: 10%;
+  ;
+ }
+
+ 
+
+ h3 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    color: rgb(3, 4, 94);
+    text-align: center;
+ }
+
+
+ p {
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+   }
+  
+
+
+   ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+    }  
+
+
+ h2 {
+    text-align: center;
+ }   
+
+
+ ol {
+    display: flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    color: rgb(105, 48, 195);
+ }
+
+
+
+
+ 
+    
